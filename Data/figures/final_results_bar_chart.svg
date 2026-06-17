@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="540" viewBox="0 0 920 540">
+  <rect width="920" height="540" fill="#ffffff"/>
+  <text x="70" y="55" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#222">Final Evaluation Results</text>
+  <text x="70" y="88" font-family="Arial, sans-serif" font-size="15" fill="#555">Mean trajectory error increases with artistic trajectory complexity.</text>
+  <line x1="95" y1="430" x2="830" y2="430" stroke="#333" stroke-width="2"/>
+  <line x1="95" y1="140" x2="95" y2="430" stroke="#333" stroke-width="2"/>
+  <line x1="95" y1="333" x2="830" y2="333" stroke="#dddddd"/>
+  <line x1="95" y1="237" x2="830" y2="237" stroke="#dddddd"/>
+  <line x1="95" y1="140" x2="830" y2="140" stroke="#dddddd"/>
+  <rect x="170" y="383.92" width="120" height="46.08" fill="#4C78A8"/><text x="184" y="373.92" font-family="Arial, sans-serif" font-size="14" fill="#222">0.017</text><rect x="400" y="311.86" width="120" height="118.14" fill="#59A14F"/><text x="414" y="301.86" font-family="Arial, sans-serif" font-size="14" fill="#222">0.043</text><rect x="630" y="196.67" width="120" height="233.33" fill="#E15759"/><text x="644" y="186.67" font-family="Arial, sans-serif" font-size="14" fill="#222">0.085</text>
+  <text x="150" y="466" font-family="Arial, sans-serif" font-size="14" fill="#222">A Smooth Circular</text><text x="165" y="488" font-family="Arial, sans-serif" font-size="13" fill="#555">98.8% accuracy</text><text x="380" y="466" font-family="Arial, sans-serif" font-size="14" fill="#222">B Spiral Growth</text><text x="395" y="488" font-family="Arial, sans-serif" font-size="13" fill="#555">96.9% accuracy</text><text x="610" y="466" font-family="Arial, sans-serif" font-size="14" fill="#222">C Organic Floral</text><text x="625" y="488" font-family="Arial, sans-serif" font-size="13" fill="#555">93.9% accuracy</text>
+  <text x="330" y="520" font-family="Arial, sans-serif" font-size="16" fill="#333">Mean trajectory error by style</text>
+</svg>

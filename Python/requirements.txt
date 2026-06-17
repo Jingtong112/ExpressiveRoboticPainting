@@ -1,0 +1,9 @@
+mlagents
+mlagents-envs
+numpy>=1.23
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+seaborn>=0.13
+tensorboard>=2.14
+onnx

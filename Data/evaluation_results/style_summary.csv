@@ -1,0 +1,4 @@
+style,mean_trajectory_error_mean,mean_trajectory_error_std,reproduction_accuracy_mean,completion_success_rate,demo_direction_change_mean,curvature_variance_mean
+Style A: Smooth Circular,0.01684,0.00101,98.80,1.00,2.01,0.0000000
+Style B: Spiral Growth,0.04317,0.00196,96.91,1.00,3.40,0.0000001
+Style C: Organic Floral,0.08526,0.00447,93.91,0.40,6.66,0.0000011
